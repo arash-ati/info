@@ -54,10 +54,6 @@
  ## Document 
 #### (سایت اصلی هر تکنولوژی جهت یادگیری عمیق)
 =======
- ##
-##
-**Document (سایت اصلی هر تکنولوژی جهت یادگیری عمیق)**
->>>>>>> 80672b4d465f4aebcadbb8711738e73ef762ca23
 
 [W3Schools](https://www.w3schools.com/default.asp): وب‌سایتی برای آموزش برنامه‌نویسی و تکنولوژی‌های وب با محتوای مبتدی و مثال‌های کاربردی.
 
@@ -83,7 +79,6 @@
 
 ## سایت های مفید و مهم
 
-<<<<<<< HEAD
  1. **[Developer Roadmaps](https://roadmap.sh/): **
   نقشه‌راه‌های یادگیری توسعه نرم‌افزار برای توسعه‌دهندگان در زمینه‌های مختلف از جمله وب وموبایل.
  3. **[CV Compiler - Rock your tech resume](https://cvcompiler.com/):**
@@ -102,13 +97,12 @@
  7. **[OverAPI](https://overapi.com/)**  
    مجموعه‌ای از Cheat Sheetها برای زبان‌های برنامه‌نویسی مختلف، که به سرعت به مستندات و راهنماها دسترسی پیدا کنید.
 
+
+[Developer Roadmaps](https://roadmap.sh/): نقشه‌راه‌های یادگیری توسعه نرم‌افزار برای توسعه‌دهندگان در زمینه‌های مختلف از جمله وب و موبایل.
+
 ## سایت های کاریابی ایرانی
 =======
-[Developer Roadmaps](https://roadmap.sh/): نقشه‌راه‌های یادگیری توسعه نرم‌افزار برای توسعه‌دهندگان در زمینه‌های مختلف از جمله وب و موبایل.
-##
-**  سایت های استخدامی ایرانی ‌:**
 
->>>>>>> 80672b4d465f4aebcadbb8711738e73ef762ca23
 [Quera](https://quera.org/dashboard)
 [جابینجا](https://jobinja.ir/)
 
@@ -117,8 +111,6 @@
 [استخدام](https://www.e-estekhdam.com/search/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A2%D9%82%D8%A7-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-IT-%D8%A8%D8%B5%D9%88%D8%B1%D8%AA-%D8%AF%D9%88%D8%B1%DA%A9%D8%A7%D8%B1%DB%8C--%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D9%88%D8%B2%DB%8C)
 
 [کارلنسر](https://www.karlancer.com/panel/dashboard)
-
-<<<<<<< HEAD
 
 
 ## افزونه های مفید گوگل کروم
@@ -171,9 +163,6 @@
 
 ## Web Site API Fake:
 =======
-##
-**Web Site API Fake:**
->>>>>>> 80672b4d465f4aebcadbb8711738e73ef762ca23
 
  1. [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
  2. [OpenWeatherMap](https://openweathermap.org/city/132144)
