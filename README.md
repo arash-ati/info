@@ -50,9 +50,9 @@
 
 ۴. **سنیور (Senior Developer)**:
  برنامه‌نویسی با بیش از ۵ سال تجربه که تخصص عمیقی در فناوری‌ها و پروژه‌های بزرگ دارد. توسعه‌دهندگان سنیور می‌توانند تصمیم‌های کلیدی فنی بگیرند، مشکلات پیچیده را حل کنند، معماری سیستم را طراحی کنند و مسئولیت راهنمایی و آموزش تیم را بر عهده دارند
- ##
-##
-**Document (سایت اصلی هر تکنولوژی جهت یادگیری عمیق)**
+ ## Document 
+#### (سایت اصلی هر تکنولوژی جهت یادگیری عمیق)
+
 [W3Schools](https://www.w3schools.com/default.asp): وب‌سایتی برای آموزش برنامه‌نویسی و تکنولوژی‌های وب با محتوای مبتدی و مثال‌های کاربردی.
 
 [java script](https://fa.javascript.info/intro): منبع جامع آموزش جاوا اسکریپت به زبان فارسی با تمرکز بر اصول و مفاهیم پایه‌ای.
@@ -75,19 +75,84 @@
 
 [Nebular](https://akveo.github.io/nebular/): کتابخانه کامپوننت‌های UI برای Angular با قابلیت‌های سفارشی‌سازی بالا و تم‌های مختلف.
 
-##
-[CV Compiler - Rock your tech resume](https://cvcompiler.com/): ابزاری برای بهینه‌سازی رزومه‌های حوزه تکنولوژی با ارائه بازخورد و نکات کاربردی.
+## سایت های مفید و مهم
 
-[Developer Roadmaps](https://roadmap.sh/): نقشه‌راه‌های یادگیری توسعه نرم‌افزار برای توسعه‌دهندگان در زمینه‌های مختلف از جمله وب و موبایل.
-##
-**  سایت های استخدامی ایرانی ‌:**
+ 1. **[Developer Roadmaps](https://roadmap.sh/): **
+  نقشه‌راه‌های یادگیری توسعه نرم‌افزار برای توسعه‌دهندگان در زمینه‌های مختلف از جمله وب وموبایل.
+ 3. **[CV Compiler - Rock your tech resume](https://cvcompiler.com/):**
+    ابزاری برای بهینه‌سازی رزومه‌های حوزه تکنولوژی با ارائه بازخورد و
+    نکات کاربردی.
+    
+ 4. **[Bento](https://bento.me/arash-ati)**  
+   پلتفرمی برای جمع‌آوری و به اشتراک‌گذاری منابع آموزشی و ابزارهای مفید در زمینه برنامه‌نویسی و توسعه وب.
+
+ 5. **[Web standards](https://developer.mozilla.org/en-US/curriculum/core/web-standards/)**  
+   منبعی معتبر از Mozilla برای یادگیری استانداردهای وب و بهترین شیوه‌های توسعه در HTML، CSS و JavaScript.
+
+ 6. **[Frontend Mentor](https://www.frontendmentor.io/challenges)**  
+   سایتی برای تمرین مهارت‌های طراحی فرانت‌اند با چالش‌های واقعی و پروژه‌های قابل اجرا.
+
+ 7. **[OverAPI](https://overapi.com/)**  
+   مجموعه‌ای از Cheat Sheetها برای زبان‌های برنامه‌نویسی مختلف، که به سرعت به مستندات و راهنماها دسترسی پیدا کنید.
+
+## سایت های کاریابی ایرانی
 [Quera](https://quera.org/dashboard)
 [جابینجا](https://jobinja.ir/)
 [جاب‌ویژن](https://jobvision.ir/)
 [استخدام](https://www.e-estekhdam.com/search/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A2%D9%82%D8%A7-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-IT-%D8%A8%D8%B5%D9%88%D8%B1%D8%AA-%D8%AF%D9%88%D8%B1%DA%A9%D8%A7%D8%B1%DB%8C--%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D9%88%D8%B2%DB%8C)
 [کارلنسر](https://www.karlancer.com/panel/dashboard)
-##
-**Web Site API Fake:**
+
+
+
+## افزونه های مفید گوگل کروم
+ 
+
+1. [Awesome Screen Recorder & Screenshot](https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd)  
+   ابزار ضبط صفحه و گرفتن اسکرین‌شات با امکانات گسترده.
+
+2. [Checker Plus for Gmail™](https://chrome.google.com/webstore/detail/oeopbcgkkoapgobdbedcemjljbihmemj)  
+   مدیریت چند حساب Gmail و دریافت اعلان‌های ایمیل بدون باز کردن جیمیل.
+
+3. [ColorZilla](https://chrome.google.com/webstore/detail/bhlhnicpbhignbdhedgjhgdocnmhomnp)  
+   ابزار قطره‌چکان، انتخاب رنگ و ژنراتور گرادیانت برای کمک به طراحی رنگ‌ها.
+
+4. [CSS3 Generator](https://chrome.google.com/webstore/detail/cnepmlplleaiijjokpfdfjdkbcdonhkj)  
+   ژنراتور CSS3 که دسترسی سریع به استایل‌های CSS را از مرورگر فراهم می‌کند.
+
+5. [Dastyar Personal Assistant in your newtab](https://chrome.google.com/webstore/detail/naibecfcnnjajodkmiajaijkaeohhbgh)  
+   دستیار شخصی با ابزارهایی نظیر فهرست کارها، تقویم، آب‌وهوا، و مدیریت بوکمارک‌ها.
+
+6. [eJOY AI Dictionary](https://chrome.google.com/webstore/detail/akkhhgfcpfbciflfoogamigammfpdffi)  
+   ابزار یادگیری زبان و ترجمه ویدیویی، وب‌سایت‌ها و PDF.
+
+7. [Google Translate](https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb)  
+   نمایش سریع ترجمه‌ها هنگام مرور وب.
+
+8. [Grid Ruler](https://chrome.google.com/webstore/detail/jihgffdmlfdjfhbmgfaagemlhmlmjdki)  
+   ابزار ساخت شبکه و اندازه‌گیری فاصله‌ها در صفحه وب.
+
+9. [Language Reactor](https://chrome.google.com/webstore/detail/lkakgkefkflmdkkebfoofegbpjppcphk)  
+   ابزاری برای یادگیری زبان با دیدن فیلم‌ها و سریال‌ها.
+
+10. [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif)  
+    مدیریت و تغییر سریع بین چندین پروکسی.
+
+11. [Simple Material Design Palette](https://chrome.google.com/webstore/detail/jbanolmmhmiapfgjikdbjepecajaicfa)  
+    پالت ساده رنگ‌های طراحی متریال گوگل.
+
+12. [TickTick - Todo & Task List](https://chrome.google.com/webstore/detail/diankknpkndanachmlckaikfefjpcjnm)  
+    لیست کارها و وظایف برای مدیریت بهتر زمان و انجام کارها.
+
+13. [Wappalyzer - Technology profiler](https://chrome.google.com/webstore/detail/aeblfdkhhhdcdjpifhhbdiojplfjncoa)  
+    شناسایی فناوری‌های وب در سایت‌ها.
+
+14. [Weava Highlighter - PDF & Web](https://chrome.google.com/webstore/detail/jmpmfcjnflbcoidlgapblgpgbilineln)  
+    ابزار برجسته‌سازی متن در وب و PDF.
+
+15. [Web Developer](https://chrome.google.com/webstore/detail/bfbameneiokkgbdmiekhjnmfkcnldhhm)  
+    مجموعه‌ای از ابزارهای مفید برای توسعه‌دهندگان وب.
+
+## Web Site API Fake:
 
  1. [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
  2. [OpenWeatherMap](https://openweathermap.org/city/132144)
