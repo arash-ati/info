@@ -106,7 +106,9 @@
 
 ## سایت های کاریابی ایرانی
 
-[Quera](https://quera.org/dashboard)
+
+[کوئرا](https://quera.org/dashboard)
+
 [جابینجا](https://jobinja.ir/)
 
 [جاب‌ویژن](https://jobvision.ir/)
