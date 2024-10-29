@@ -82,6 +82,7 @@
 [Developer Roadmaps](https://roadmap.sh/): نقشه‌راه‌های یادگیری توسعه نرم‌افزار برای توسعه‌دهندگان در زمینه‌های مختلف از جمله وب و موبایل.
 ##
 **  سایت های استخدامی ایرانی ‌:**
+
 [Quera](https://quera.org/dashboard)
 [جابینجا](https://jobinja.ir/)
 
